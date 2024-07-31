@@ -8,6 +8,4 @@ Application end points is:
   https://host/trips/id/update/ POST and GET
   https://host/trips/id/delete/ POST and GET
   https://host/trips/api/ -> POST and GET
-  https://host/trips/api/id/ GET
-  https://host/trips/api/id/update/ POST and GET
-  https://host/trips/api/id/delete/ POST
+  https://host/trips/api/id/ GET and UPDATE and DELETE
